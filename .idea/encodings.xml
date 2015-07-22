@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.eslintignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/bus/Branch.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/bus/Rank.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/bus/Trail.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/optimizations/Memoization.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/optimizations/Tree.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/ui/Terrain.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/utils/Ajax.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/utils/Drop.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/utils/Grid.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/utils/Identity.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/utils/Matrix.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/optimizations/Memoization.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/ui/Terrain.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/index.js" charset="UTF-8" />
+  </component>
+</project>
